@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=AWS+%26+DevOps+Engineer;Cloud+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;DevOps+%26+Cloud+Enthusiast;AWS+%26+DevOps+Learner;Cloud+%26+DevOps+Fresher)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Sayali Adsul</h1>
 <h3 align="center">AWS & DevOps Enthusiast 🚀</h3>
 
