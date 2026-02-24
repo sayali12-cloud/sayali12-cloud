@@ -37,5 +37,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayali12-cloud&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
