@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sayali Adsul</h1>
+<h3 align="center">AWS & DevOps Enthusiast 🚀</h3>
 
-<!--
-**sayali12-cloud/sayali12-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 Currently learning **AWS, Docker, Kubernetes & DevOps**
+- 💻 Hands-on experience with **EC2, S3, IAM, Docker**
+- 🎯 Goal: Become a Cloud & DevOps Engineer
+- 📍 Location: Maharashtra, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- ☁️ AWS (EC2, S3, IAM)
+- 🐳 Docker
+- ⚙️ Linux
+- 🔄 Git & GitHub
+- 🧩 HTML, CSS, PHP
+
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]( www.linkedin.com/in/sayali-adsul-8b0356341 /)
+
+---
+
+### 📊 GitHub Stats
+![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayali12-cloud&show_icons=true&theme=radical)
+
