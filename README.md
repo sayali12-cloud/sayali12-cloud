@@ -1,39 +1,66 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;DevOps+%26+Cloud+Enthusiast;AWS+%26+DevOps+Learner;Cloud+%26+DevOps+Fresher" />
-  </a>
-</p>
 <h1 align="center">Hi 👋, I'm Sayali Adsul</h1>
-<h3 align="center">AWS & DevOps Enthusiast 🚀</h3>
+<h3 align="center">DevOps & Cloud Engineer | AWS | Docker | CI/CD</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently learning **AWS, Docker, Kubernetes & DevOps**
-- 💻 Hands-on experience with **EC2, S3, IAM, Docker**
-- 🎯 Goal: Become a Cloud & DevOps Engineer
-- 📍 Location: Maharashtra, India
+- DevOps & Cloud enthusiast with hands-on experience in AWS services and containerization
+- Experienced in building and deploying applications using EC2, S3, and ECS
+- Skilled in CI/CD pipeline implementation and automation
+- Passionate about cloud infrastructure and DevOps practices
+
+---
+
+### 🚀 Projects
+
+#### 🔹 Flask Application Deployment on AWS ECS
+- Containerized Flask application using Docker
+- Deployed application on AWS ECS (Elastic Container Service)
+- Managed container orchestration and scalability
+
+**Tools:** Flask, Docker, AWS ECS  
+**GitHub Repo:** https://github.com/YOUR_USERNAME/flask-ecs-project
+
+---
+
+#### 🔹 DevOps Exam Application (CI/CD Pipeline)
+- Built and deployed a web-based exam application
+- Implemented CI/CD pipeline using Jenkins
+- Automated build and deployment process
+- Deployed application on AWS EC2 using Docker
+
+**Tools:** Jenkins, Docker, AWS EC2, MySQL  
+**GitHub Repo:** https://github.com/YOUR_USERNAME/devops-exam-app
+
+---
+
+#### 🔹 Automated S3 Backup using Python
+- Developed a Python script to automate file backups to AWS S3
+- Used Boto3 for secure file upload
+- Reduced manual backup effort through automation
+
+**Tools:** Python, AWS S3, Boto3  
+**GitHub Repo:** https://github.com/YOUR_USERNAME/s3-backup-script
 
 ---
 
 ### 🛠️ Skills
-- ☁️ AWS (EC2, S3, IAM)
-- 🐳 Docker
-- ⚙️ Linux
-- 🔄 Git & GitHub
-- 🧩 HTML, CSS, PHP
-## 🛠️ Skills
+- AWS (EC2, S3, ECS, IAM)
+- Docker
+- Jenkins
+- Linux
+- Git & GitHub
+- Python (Basic)
+- HTML, CSS, PHP
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![Linux](https://img.shields.io/badge/Linux-Basics-yellow?logo=linux)
-![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git)
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]( www.linkedin.com/in/sayali-adsul-8b0356341 /)
-
----
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINK/
 
 
