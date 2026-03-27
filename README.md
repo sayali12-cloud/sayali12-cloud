@@ -21,7 +21,7 @@
 - Learned container orchestration and cloud deployment
 
 **Tools:** Flask, Docker, AWS ECS  
-**GitHub Repo:** https://github.com/sayali12-cloud/flask-ecs-project
+**GitHub Repo:** [https://github.com/sayali12-cloud/flask-ecs-project](https://github.com/sayali12-cloud/flask-app-ecs)
 
 ---
 
