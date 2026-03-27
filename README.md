@@ -59,7 +59,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayali12-cloud&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayali12-cloud&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes) ![Linux](https://img.shields.io/badge/Linux-Basics-yellow?logo=linux) ![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git) 
