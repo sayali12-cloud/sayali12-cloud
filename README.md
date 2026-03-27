@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sayali Adsul</h1>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;DevOps+%26+Cloud+Enthusiast;AWS+%26+DevOps+Learner;Cloud+%26+DevOps+Fresher" /> </a> </p><h1 align="center">Hi 👋, I'm Sayali Adsul</h1>
 <h3 align="center">Aspiring DevOps Engineer | AWS & Cloud Enthusiast</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- Aspiring DevOps Engineer with hands-on experience in AWS and Docker
-- Built real-world projects involving deployment, automation, and containerization
-- Familiar with CI/CD pipelines and cloud-based application deployment
-- Actively looking for opportunities to start my career in DevOps & Cloud
-
+- 🚀 Aspiring DevOps Engineer with hands-on practice in AWS and DevOps 
+- 🛠️ Worked on projects involving CI/CD, deployment, and automation  
+- ☁️ Skilled in basic cloud services and container-based applications  
+- 📈 Continuously learning and improving DevOps and cloud skills  
+- 🎯 Looking for opportunities to start my career in DevOps & Cloud  
+- 🎯 Goal: Become a Cloud & DevOps Engineer -
+- 📍 Location: Maharashtra, India
+  
 ---
-
 ### 🚀 Projects
 
 #### 🔹 Flask Application Deployment on AWS ECS
@@ -19,7 +21,7 @@
 - Learned container orchestration and cloud deployment
 
 **Tools:** Flask, Docker, AWS ECS  
-**GitHub Repo:** https://github.com/YOUR_USERNAME/flask-ecs-project
+**GitHub Repo:** https://github.com/sayali12-cloud/flask-ecs-project
 
 ---
 
@@ -30,7 +32,7 @@
 - Deployed application on AWS EC2 using Docker
 
 **Tools:** Jenkins, Docker, AWS EC2, MySQL  
-**GitHub Repo:** https://github.com/YOUR_USERNAME/devops-exam-app
+**GitHub Repo:** https://github.com/sayali12-cloud/devops-exam-app
 
 ---
 
@@ -40,18 +42,19 @@
 - Reduced manual effort through scripting
 
 **Tools:** Python, AWS S3, Boto3  
-**GitHub Repo:** https://github.com/YOUR_USERNAME/s3-backup-script
+**GitHub Repo:** https://github.com/sayali12-cloud/s3-backup-script
 
 ---
-
 ### 🛠️ Skills
-- AWS (EC2, S3, ECS, IAM)
-- Docker
-- Jenkins (Basic)
-- Linux
-- Git & GitHub
-- Python (Basic)
-- HTML, CSS, PHP
+
+- ☁️ AWS: EC2, S3, VPC, IAM, CloudWatch  
+- 🐳 Docker  
+- 🔄 Jenkins (CI/CD)  
+- ⚙️ Linux  
+- 🔧 Git & GitHub  
+- 🐍 Python (Basic)  
+- 📦 Terraform  
+- ☸️ Kubernetes (Basic)  
 
 ---
 
@@ -59,6 +62,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes) ![Linux](https://img.shields.io/badge/Linux-Basics-yellow?logo=linux) ![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git) 
 
+---
 ### 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/YOUR-LINK/
