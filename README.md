@@ -31,6 +31,6 @@
 
 ---
 ### 🔗 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK/](https://www.linkedin.com/in/sayali-adsul-8b0356341/)
-- Email: sayaliadsul6@gmail.com
-- Website: https://sayali12-cloud.github.io/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sayali-adsul-8b0356341/) 
+[![Email](https://img.shields.io/badge/Email-Send-red?logo=gmail)](mailto:sayaliadsul6@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?logo=google-chrome)](https://sayali12-cloud.github.io/)
