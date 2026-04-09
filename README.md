@@ -29,10 +29,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity Graph
 
-![Sayali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayali12-cloud&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayali12-cloud&layout=compact&theme=radical)
+![Sayali's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayali12-cloud&theme=react-dark&hide_border=true)
 
 ---
 ### 🔗 Connect With Me
