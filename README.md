@@ -36,5 +36,4 @@
 
 ---
 ### 👀 Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/sayali12-cloud/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=sayali12-cloud&color=blue)
