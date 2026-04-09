@@ -13,33 +13,6 @@
 - 📍 Location: Maharashtra, India
   
 ---
-### 🚀 Projects
-
-#### 🔹 Flask Application Deployment on AWS ECS
-- Containerized Flask application using Docker
-- Deployed application on AWS ECS (Elastic Container Service)
-- Learned container orchestration and cloud deployment
-
-**Tools:** Flask, Docker, AWS ECS  
-**GitHub Repo:** [https://github.com/sayali12-cloud/flask-ecs-project](https://github.com/sayali12-cloud/flask-app-ecs)
-
----
-
-#### 🔹 DevOps Exam Application (CI/CD Pipeline)
-- Built a web-based exam application
-- Implemented CI/CD pipeline using Jenkins
-- Automated build and deployment process
-- Deployed application on AWS EC2 using Docker
-
-**Tools:** Jenkins, Docker, AWS EC2, MySQL  
-**GitHub Repo:** https://github.com/sayali12-cloud/devops-exam-app
-
----
-
-#### 🔹 Automated S3 Backup using Python
-- Created a Python script to automate file backups to AWS S3
-- Used Boto3 for file upload and automation
-- Reduced manual effort through scripting
 
 **Tools:** Python, AWS S3, Boto3  
 **GitHub Repo:** [https://github.com/sayali12-cloud/s3-backup-script](https://github.com/sayali12-cloud/python-s3-backup)
