@@ -29,11 +29,6 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayali12-cloud&theme=react-dark&hide_border=true)
-
----
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sayali-adsul-8b0356341/) 
 [![Email](https://img.shields.io/badge/Email-Send-red?logo=gmail)](mailto:sayaliadsul6@gmail.com) 
