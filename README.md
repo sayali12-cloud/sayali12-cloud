@@ -33,3 +33,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sayali-adsul-8b0356341/) 
 [![Email](https://img.shields.io/badge/Email-Send-red?logo=gmail)](mailto:sayaliadsul6@gmail.com) 
 [![Website](https://img.shields.io/badge/Website-Portfolio-green?logo=google-chrome)](https://sayali12-cloud.github.io/)
+
+---
+### 👀 Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/sayali12-cloud/count.svg)
