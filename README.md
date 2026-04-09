@@ -28,6 +28,13 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes) ![Linux](https://img.shields.io/badge/Linux-Basics-yellow?logo=linux) ![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git) 
 
 ---
+
+### 📊 GitHub Stats
+
+![Sayali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayali12-cloud&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayali12-cloud&layout=compact&theme=radical)
+
+---
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sayali-adsul-8b0356341/) 
 [![Email](https://img.shields.io/badge/Email-Send-red?logo=gmail)](mailto:sayaliadsul6@gmail.com) 
