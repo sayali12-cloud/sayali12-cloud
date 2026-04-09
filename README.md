@@ -32,3 +32,5 @@
 ---
 ### 🔗 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/YOUR-LINK/](https://www.linkedin.com/in/sayali-adsul-8b0356341/)
+- Email: sayaliadsul6@gmail.com
+- Website: https://sayali12-cloud.github.io/
