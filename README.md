@@ -31,7 +31,7 @@
 
 ### 📈 GitHub Activity Graph
 
-![Sayali's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayali12-cloud&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sayali12-cloud&theme=react-dark&hide_border=true)
 
 ---
 ### 🔗 Connect With Me
