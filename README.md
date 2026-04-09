@@ -1,10 +1,3 @@
-<img src="https://github.com/sayali12-cloud.png" width="150" style="border-radius: 50%;">
-<img src="https://github.com/sayali12-cloud.png" width="150" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0px 0px 10px #000;">
-
----
-
-
-
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;DevOps+%26+Cloud+Enthusiast;AWS+%26+DevOps+Learner;Cloud+%26+DevOps+Fresher" /> </a> </p><h1 align="center">Hi 👋, I'm Sayali Adsul</h1>
 <h3 align="center">Aspiring DevOps Engineer | AWS & Cloud Enthusiast</h3>
 
