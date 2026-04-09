@@ -14,10 +14,6 @@
   
 ---
 
-**Tools:** Python, AWS S3, Boto3  
-**GitHub Repo:** [https://github.com/sayali12-cloud/s3-backup-script](https://github.com/sayali12-cloud/python-s3-backup)
-
----
 ### 🛠️ Skills
 
 - ☁️ AWS: EC2, S3, VPC, IAM, CloudWatch  
